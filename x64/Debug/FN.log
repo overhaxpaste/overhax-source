@@ -1,0 +1,6 @@
+﻿  Assembling _spoofer_stub.asm...
+  dllmain.cpp
+D:\FortHax\FN\dllmain.cpp(1832,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FortUpdater.cpp
+D:\FortHax\FN\FortUpdater.cpp(239,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
